@@ -51,7 +51,7 @@ A Mobile App Developer specializing in building responsive and modern applicatio
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RifqyFauzan9&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=RifqyFauzan9&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/rifqyfauzan9/rifqyfauzan9/output/snake.svg" alt="Snake animation" />
