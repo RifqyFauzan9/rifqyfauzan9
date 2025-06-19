@@ -1,4 +1,4 @@
-![Rifqy Fauzan Banner](img/github-header-image.png)
+![Rifqy Fauzan Banner](img/github-header-image-2.png)
 
 ## Hello, I'm Rifqy Fauzan 👋
 
