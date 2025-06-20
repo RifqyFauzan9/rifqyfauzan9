@@ -1,10 +1,10 @@
 ![Rifqy Fauzan Banner](img/github-header-image-2.png)
 
-<h3 align="left">
+<h2 align="left">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m Rifqy Fauzan
-</h3>
+</h2>
 
-💙 **Flutter Developer** | **UI/UX Focus**  
+#### 💙 **Flutter Developer** | **UI/UX Focus**  
 🛠 Building apps with clean code & good vibes  
 
 👇 Check out my links and works!
