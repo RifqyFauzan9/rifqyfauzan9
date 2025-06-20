@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m Rifqy Fauzan
 </h2>
 
-### 💙 Flutter Developer | UI/UX Focus  
+### 💙 App Developer | UI/UX Focused  
 🛠 Building apps with clean code & good vibes  
 
 👇 Check out my links and works!
